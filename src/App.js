@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Code, LogOut, Play, Home, Terminal, FileCode } from 'lucide-react';
+import { OtherIcon } from 'react-bootstrap-icons';
 
 const CodeVisualizerPlatform = () => {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
